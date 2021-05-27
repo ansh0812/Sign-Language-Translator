@@ -1,6 +1,6 @@
 # Sign-Language-Translator
 
-### <a href = "https://elysian01.github.io/Sign-Language-Translator/index.html"> Click Here </a> to visit website
+### <a href = "https://ansh0812.github.io/Sign-Language-Translator/"> Click Here </a> to visit website
 <br>
   
 <img src="./docs/Thumbnail.jpeg" alt="#" width="600px" height="350px">
